@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 29085d2f-9e81-47ce-bca1-72859cd574fe
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    3346e5a5-1922-4973-a6da-ed4fba0ba419: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Meeting info and location'
+  description:
+    -
+      value: 'Where and when we meet as a local club'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/node/24'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 1
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:3346e5a5-1922-4973-a6da-ed4fba0ba419'
+  revision_translation_affected:
+    -
+      value: true

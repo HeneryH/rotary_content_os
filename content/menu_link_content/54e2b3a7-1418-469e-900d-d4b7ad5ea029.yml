@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 54e2b3a7-1418-469e-900d-d4b7ad5ea029
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    af68af26-362f-46bd-a75f-fd6563659ec7: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'RSS feed'
+  description:
+    -
+      value: 'RSS feed'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 5
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:af68af26-362f-46bd-a75f-fd6563659ec7'
+  revision_translation_affected:
+    -
+      value: true

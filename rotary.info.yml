@@ -1,0 +1,39 @@
+name: 'Rotary default content and structure.'
+type: module
+description: 'Default content and structure for the Rotary kickstart sites.'
+package: Web services
+core_version_requirement: ^8.7.7 || ^9
+dependencies:
+  - default_content:default_content
+
+default_content:
+    menu_link_content:
+      - 004d57b5-0788-4e9b-a9a6-c05ff0386426.yml  
+      - 99eccbbd-289d-4dba-9595-ee7221ae4e29.yml
+      - 0a7171b8-ddee-4304-83fb-f12c1ef8b712.yml  
+      - a4a69ad6-99a8-42a3-841e-34085204de22.yml
+      - 29085d2f-9e81-47ce-bca1-72859cd574fe.yml  
+      - a8dcbd37-db16-4368-b68b-21e2149885a4.yml
+      - 2afb5388-be21-42a7-8ee3-c61f8c5fbc13.yml  
+      - af68af26-362f-46bd-a75f-fd6563659ec7.yml
+      - 3346e5a5-1922-4973-a6da-ed4fba0ba419.yml  
+      - bb5dbb99-1b1a-4b25-bea2-0f536b0f5542.yml
+      - 34416460-21f8-4e18-91db-7c8453c889f9.yml  
+      - bf552f6e-158e-4022-aa44-ddc212127d8f.yml
+      - 3d36ba12-7800-4583-bf26-4c5724fc1da0.yml  
+      - c1c09c6b-d34c-42d8-af8c-6b1e9013d54d.yml
+      - 54e2b3a7-1418-469e-900d-d4b7ad5ea029.yml  
+      - cb924e3c-6c41-4a36-ad90-45154d283048.yml
+      - 572ceba6-344c-4b14-89cc-a5b385d715b0.yml  
+      - dfa86ed9-4800-49c8-9549-61f89d1ef2c6.yml
+      - 5a70da40-c894-4919-98fd-0368d5d1c67c.yml  
+      - edca328a-f372-4c66-83c4-0dc5d061056e.yml
+      - 6f1825a0-d21e-4127-a75d-2f0757f3d25e.yml  
+      - f7c78a1b-9a5a-4f1b-a335-7c9ac27decad.yml
+      - 6fd0a85d-cc7a-428f-9ef5-652fa4b4cd6d.yml  
+      - fa589e87-0319-46a2-b812-7ffdf8515a83.yml
+      - 88d6ed71-d8bc-4645-98e2-8669b3646487.yml  
+      - fb34b999-6b19-4421-ac80-aca5febe574e.yml
+      - 8a308b8a-f3de-4f1b-bce2-3bb45ec3fe00.yml  
+      - fdb4632b-1815-488e-ad29-78a4cacca313.yml
+      - 963bd157-28dc-4a1c-85aa-82b3bb94a124.yml
